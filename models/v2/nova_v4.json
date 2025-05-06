@@ -1,15 +1,15 @@
 {
   "type": "micro",
-  "wake_word": "nova v2",
+  "wake_word": "nova v4",
   "author": "Denis",
   "website": "https://github.com/Denis-v-ops/",
-  "model": "nova_v2.tflite",
+  "model": "nova_v4.tflite",
   "trained_languages": [
     "en"
   ],
   "version": 2,
   "micro": {
-    "probability_cutoff": 0.97,
+    "probability_cutoff": 0.95,
     "sliding_window_size": 5,
     "feature_step_size": 10,
     "tensor_arena_size": 30000,

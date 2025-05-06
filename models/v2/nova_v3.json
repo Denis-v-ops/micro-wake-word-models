@@ -1,6 +1,6 @@
 {
   "type": "micro",
-  "wake_word": "nova",
+  "wake_word": "nova v3",
   "author": "Denis",
   "website": "https://github.com/Denis-v-ops/",
   "model": "nova_v3.tflite",
