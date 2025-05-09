@@ -1,9 +1,9 @@
 {
   "type": "micro",
-  "wake_word": "nova v4",
+  "wake_word": "Hey Nova",
   "author": "Denis",
   "website": "https://github.com/Denis-v-ops/",
-  "model": "nova_v4.tflite",
+  "model": "hey_nova_v5.tflite",
   "trained_languages": [
     "en"
   ],
